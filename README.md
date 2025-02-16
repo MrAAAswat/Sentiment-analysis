@@ -12,5 +12,5 @@
  along with the highest confidence rating.
 
 Datasets used: 
-- https://www.kaggle.com/datasets/krystalliu152/imbd-movie-reviewnpl
+- https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
 - https://www.kaggle.com/datasets/krystalliu152/imbd-movie-reviewnpl
