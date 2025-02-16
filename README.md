@@ -10,3 +10,7 @@
  would also require to have the Movie’s name in the dataset, then our recommendation system would
  determine the highest weighted score based on which movie received the most amount of positive entries,
  along with the highest confidence rating.
+
+Datasets used: 
+- https://www.kaggle.com/datasets/krystalliu152/imbd-movie-reviewnpl
+- https://www.kaggle.com/datasets/krystalliu152/imbd-movie-reviewnpl
